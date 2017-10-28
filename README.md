@@ -1,3 +1,6 @@
+This program is stupid simple. Below was my initial quick 
+writen thoughts of how the program would work.
+
 1. Welcome user to the program.
 
 2. Menu system so user can choose which kind of calculation.
